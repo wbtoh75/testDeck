@@ -98,5 +98,5 @@ fit$result
 ---
 
 ## Application URL
-https://wbtoh.shinyapps.io/DDP_Project/
+https://wbtoh.shinyapps.io/DDPProject/
 ---
